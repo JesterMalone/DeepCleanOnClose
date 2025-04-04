@@ -8,8 +8,8 @@
         <License>Resources\LICENSE.txt</License>
         <GettingStartedGuide>Resources\GettingStarted.html</GettingStartedGuide>
         <ReleaseNotes>Resources\ReleaseNotes.html</ReleaseNotes>
-        <Icon>Resources\broomnbin_white.png</Icon>
-        <PreviewImage>Resources\broomnbin_white.png</PreviewImage>
+        <Icon>Resources\broomandbin_blackandwhite.png</Icon>
+        <PreviewImage>Resources\broomandbin_color.png</PreviewImage>
         <Tags>bin, obj, packages, cleanup, clean, onclose</Tags>
         <Preview>true</Preview>
     </Metadata>
